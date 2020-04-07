@@ -6,13 +6,6 @@ grids containing one video for every element in the song. For elements that are 
 the videos will be pre-recorded. For elements that are played live, the videos will be taken
 from webcams/capture cards/live streams.
 
-![Example Grid](https://raw.githubusercontent.com/bartjoyce/video-app/master/assets/example-grid.jpg)
-
-[This video explains the function of the app in detail.](https://www.youtube.com/watch?v=xSPXzwI9Czk)
-
-## Programming live streams
-
-This app is being developed live on weekly Youtube live-streams. They are announced ahead of time on [my Youtube channel](https://www.youtube.com/channel/UClZL_faO7lGe6nM9MH-uu6A). You can also find all the previous streams on the [C++ Real-time video processing playlist](https://www.youtube.com/playlist?list=PLKucWgGjAuTbobNC28EaR9lbGQTVyD9IS)
 
 ## Installation
 
